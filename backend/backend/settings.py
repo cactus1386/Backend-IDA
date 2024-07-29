@@ -46,7 +46,8 @@ INSTALLED_APPS = [
     'slider',
     'ckeditor',
     'ckeditor_uploader',
-    'drf_yasg'
+    'drf_yasg',
+    'contact'
 ]
 
 MIDDLEWARE = [
